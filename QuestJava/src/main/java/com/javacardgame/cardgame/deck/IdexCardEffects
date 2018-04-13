@@ -1,0 +1,46 @@
+Battle Points Sir Gawain                                               Bonus applies to this player if quest = Test of the Green Knight
+Bid           King Pellinore                                           Bonus applies to this player if quest = Search for the Questing Beast
+Battle Points Sir Percival                                             Bonus applies to this player if quest = Search for the Holy Grail
+Battle Points Sir Tristan                                              Bonus applies to this player if Queen Iseult is in play
+Effect        Merlin                                                   Bonus applies to this player 1 per quest
+Bid           Queen Iseult                                             Bonus applies to this player if Tristan is in play
+Battle Points Sir Lancelot                                             Bonus applies to this player if quest = Defend the Queen's Honor
+Effect        Mordred                                                  Bonus applies to this player outside of regular play
+Shields       Chivalrous Deed                                          Bonus applies to all players with both lowest rank and shield count
+Shields       Pox                                                      Bonus applies to all players but the one who drew this card
+Shields       Plague/ King's Call to Arms                              Bonus applies to this player
+Cards Draw    Prosperity Throughout the Realm/ Court Called to Camelot Bonus applies to all players
+Battle Points Evil Knight                                              Bonus applies to this sponsor if quest = Journey Through the Enchanted Forest or Defend the Queen's Honor or Search for the Holy Grail
+Battle Points Dragon                                                   Bonus applies to this sponsor if quest = Defend the Queen's Honor or Slay the Dragon or Search for the Holy Grail
+Battle Points Saxon Knight/ Saxons                                     Bonus applies to this sponsor if quest = Defend the Queen's Honor or Search for the Holy Grail or Repel the Saxons Raiders
+Battle Points Boar                                                     Bonus applies to this sponsor if quest = Defend the Queen's Honor or Search for the Holy Grail or Boar Hunt
+Battle Points Black Knight                                             Bonus applies to this sponsor if quest = Defend the Queen's Honor or Rescue the Fair Maiden or Search for the Holy Grail
+Battle Points Green Knight                                             Bonus applies to this sponsor if quest = Defend the Queen's Honor or Search for the Holy Grail or Test of the Green Knight
+Shields       All Tournamnets                                          Bonus applies to victor(s) of tournament
+Shields       King's Recoginiton                                       Bonus applies to all players who complete future quest
+Cards Draw    Queen's Favor                                            Bonus applies to all players with lowest rank
+
+
+King Arthur effect no longer stored as such
+Amour effect no longer stored as such 
+Test of the Questing Beast effect no longer stored as such 
+Test of Morgan Le Fey effect no longer stored as such 
+bonus bp added to regular bp
+isBid means bp treated as bids
+bonus bid added to regular bid
+isBidMin means bp treated as bid min
+isBid and isAlsoBp means 1st is battle points second is bid
+
+
+7 str str str num
+4 str str str bol num
+3 str str str bol bol num num
+5 num str str str
+1 num str str str num num
+6 num str str str bol num num
+2 num str str str bol bol num num
+
+
+
+
+
